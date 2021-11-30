@@ -1,0 +1,11 @@
+body {
+    background-color: black !important;
+    margin: 0px;
+    color: white;
+    text-align: center;
+    overflow: hidden;    
+}
+
+p {
+    color: red;
+}
